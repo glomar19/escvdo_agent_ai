@@ -1,0 +1,106 @@
+file,name,category,color,brand,collection,folder,color_upper,color_lower,pattern,pattern_conf,pattern_final,labels_manual
+001.jpg,CONA MAXI DRESS,dress,BURGUNDY - FUCHSIA,escvdo,FW25,escvdo_fw25,black,red,animal print,0.45,solid / other,dresses|knitwear
+002.jpg,TAYTA SLEEVELESS TOP,top,BURGUNDY - IVORY,escvdo,FW25,escvdo_fw25,black,grey,floral,0.38,solid / other,tops|knitwear
+003.jpg,TAYTA MAXI SKIRT,skirt,BURGUNDY - IVORY,escvdo,FW25,escvdo_fw25,black,grey,floral,0.38,solid / other,bottoms|knitwear
+004.jpg,SALKANTAY LIGHT SWEATER,sweater,GREEN - SKY BLUE,escvdo,FW25,escvdo_fw25,brown,brown,striped,0.77,striped,outerwear|knitwear
+005.jpg,SALKANTAY MINI SKIRT,skirt,GREEN - SKY BLUE,escvdo,FW25,escvdo_fw25,brown,brown,striped,0.87,striped,bottoms|knitwear
+006.png,UKUKU BLAZER,blazer,BLACK - IVORY,escvdo,FW25,escvdo_fw25,black,black,polka dots,0.45,solid / other,outerwear
+007.png,UKUKU ANKLE SKIRT,skirt,BLACK - IVORY,escvdo,FW25,escvdo_fw25,black,black,animal print,0.32,solid / other,bottoms
+008.jpg,AUZANGATE COAT,coat,BLACK - BROWN,escvdo,FW25,escvdo_fw25,black,black,striped,0.95,striped,outerwear
+009.jpg,SAFI LONG SLEEVE TOP,top,ELECTRIC BLUE - BURGUNDY - IVORY,escvdo,FW25,escvdo_fw25,black,black,striped,0.57,striped,tops|knitwear
+010.jpg,SAFI MIDI SKIRT,skirt,ELECTRIC BLUE - BURGUNDY - IVORY,escvdo,FW25,escvdo_fw25,black,black,striped,0.57,striped,bottoms|knitwear
+011.jpg,PROFUNDO MIDI SKIRT,skirt,BLUES - BLACK |  PRE ORDER,escvdo,FW25,escvdo_fw25,black,navy,striped,0.44,solid / other,bottoms|knitwear
+012.jpg,PABLITO TOP,top,BLACK,escvdo,FW25,escvdo_fw25,black,black,striped,0.85,striped,tops|knitwear
+001.jpg,ALPAMAYO SLEEVELESS MAXI DRESS,dress,TANGERINE - ORANGE,escvdo,PF25,escvdo_pf25,brown,brown,solid,0.93,solid,dresses|knitwear
+002.jpg,ESPINA SLEEVELESS TOP,top,ORANGE - FUCHSIA,escvdo,PF25,escvdo_pf25,brown,grey,striped,0.49,solid / other,tops|knitwear
+003.jpg,ESPINA MINI SKIRT,skirt,ORANGE - FUCHSIA,escvdo,PF25,escvdo_pf25,brown,grey,striped,0.49,solid / other,bottoms|knitwear
+004.jpg,REFLEJO CROCHET HALTER TOP,top,TANGERINE,escvdo,PF25,escvdo_pf25,grey,brown,solid,0.5,solid,tops|knitwear
+005.jpg,REFLEJO CROCHET MAXI SKIRT,skirt,TANGERINE,escvdo,PF25,escvdo_pf25,grey,brown,solid,0.5,solid,bottoms|knitwear
+006.jpg,CUMBRE MAXI DRESS,dress,TANGERINE,escvdo,PF25,escvdo_pf25,brown,brown,solid,0.93,solid,dresses|knitwear
+007.jpg,WAYRA CROPPED SLEEVELESS TOP,top,TANGERINE - ORANGE,escvdo,PF25,escvdo_pf25,grey,light blue,striped,0.97,striped,tops|knitwear
+008.jpg,WAYRA MINI SKIRT,skirt,ORANGE - TANGERINE,escvdo,PF25,escvdo_pf25,grey,light blue,striped,0.97,striped,bottoms|knitwear
+009.jpg,MANGLAR SLEEVELESS TOP,top,IVORY - FUCHSIA,escvdo,PF25,escvdo_pf25,grey,beige,striped,0.96,striped,tops|knitwear
+010.jpg,MANGLAR MAXI SKIRT,skirt,IVORY - FUCHSIA,escvdo,PF25,escvdo_pf25,grey,beige,striped,0.96,striped,bottoms|knitwear
+011.jpg,MAREA CROCHET MAXI DRESS,dress,TANGERINE - YELLOW,escvdo,PF25,escvdo_pf25,grey,grey,striped,0.39,solid / other,dresses|knitwear
+001.jpg,SIULA Long Sleeve Maxi Dress,dress,Red Wine,escvdo,PF26,escvdo_pf26,black,black,floral,0.48,solid / other,dresses|knitwear
+002.jpg,TERRENAL Mini Skirt,skirt,Cobalt Blue,escvdo,PF26,escvdo_pf26,navy,beige,checked,0.97,checked,bottoms|knitwear
+003.jpg,MAREA Maxi Dress,dress,Orange / Multi,escvdo,PF26,escvdo_pf26,beige,red,animal print,0.9,animal print,dresses|knitwear
+004.jpg,URSULA Top,top,Ivory / Multi,escvdo,PF26,escvdo_pf26,orange,beige,striped,0.65,striped,tops|knitwear
+005.jpg,ALMA Sleeveless Mini Dress,dress,Ivory / Multi,escvdo,PF26,escvdo_pf26,beige,beige,striped,0.29,solid / other,dresses|knitwear
+006.jpg,SIULA Top,top,Ivory |  PRE ORDER,escvdo,PF26,escvdo_pf26,light pink,light pink,floral,0.43,solid / other,tops|knitwear
+007.jpg,SIULA Halter Maxi Dress,dress,Ivory,escvdo,PF26,escvdo_pf26,light pink,light pink,polka dots,0.77,polka dots,dresses|knitwear
+008.jpg,CIELO Pants,pants,Ivory,escvdo,PF26,escvdo_pf26,light pink,light pink,solid,0.49,solid / other,bottoms
+009.jpg,MURAL Top,top,Ivory,escvdo,PF26,escvdo_pf26,light pink,light pink,solid,0.87,solid,tops|knitwear
+010.jpg,MISTI MIDI DRESS,dress,Matcha Green / Cobalt,escvdo,PF26,escvdo_pf26,beige,grey,striped,0.98,striped,dresses|knitwear
+011.jpg,MISTI Mini Dress,dress,Matcha/ Brown,escvdo,PF26,escvdo_pf26,black,beige,striped,0.94,striped,dresses|knitwear
+001.png,MISHI KNITTED MINI DRESS,dress,GOLDEN,escvdo,PS26,escvdo_ps26,brown,brown,striped,0.54,striped,dresses|knitwear
+002.png,SUSPIRO SKIRT,skirt,GOLDEN BLACK,escvdo,PS26,escvdo_ps26,brown,brown,animal print,0.66,animal print,bottoms|knitwear
+003.png,ATUQ KNITTED VEST DRESS,dress,Ivory,escvdo,PS26,escvdo_ps26,beige,beige,polka dots,0.78,polka dots,dresses|knitwear
+004.png,ATUQ KNITTED PANTS,pants,IVORY,escvdo,PS26,escvdo_ps26,beige,beige,polka dots,0.78,polka dots,bottoms|knitwear
+005.jpg,SOLAR LONG SLEEVE SHIRT,shirt,IVORY,escvdo,PS26,escvdo_ps26,grey,grey,polka dots,0.34,solid / other,tops|knitwear
+006.png,MISHI KNITTED MINI DRESS,dress,IVORY,escvdo,PS26,escvdo_ps26,beige,beige,striped,0.73,striped,dresses|knitwear
+007.png,AMADA SKIRT,skirt,IVORY,escvdo,PS26,escvdo_ps26,light pink,beige,striped,0.53,striped,bottoms|knitwear
+008.png,AGRESTE SLEEVELESS MAXI DRESS,dress,IVORY,escvdo,PS26,escvdo_ps26,beige,black,striped,0.94,striped,dresses|knitwear
+001.png,SOLAR LONG SLEEVE SHIRT,shirt,RED,escvdo,SS26,escvdo_ss26,red,black,solid,0.88,solid,tops|knitwear
+002.png,CUENCA Midi Dress,dress,Scarlet Red,escvdo,SS26,escvdo_ss26,grey,grey,animal print,0.74,animal print,dresses|knitwear
+003.webp,NEVADO Mini Dress,dress,Sunset,escvdo,SS26,escvdo_ss26,orange,beige,striped,0.9,striped,dresses|knitwear
+004.jpg,LAURI Maxi Skirt,skirt,Tobacco,escvdo,SS26,escvdo_ss26,grey,brown,solid,0.98,solid,bottoms|knitwear
+005.png,CANTOR Macramé Top,top,Tobacco,escvdo,SS26,escvdo_ss26,beige,brown,solid,0.74,solid,tops|knitwear
+006.png,MAREA Maxi Dress,dress,Ivory - Tobacco,escvdo,SS26,escvdo_ss26,beige,grey,animal print,0.74,animal print,dresses|knitwear
+007.jpg,LAURI Polo Shirt,shirt,Ivory,escvdo,SS26,escvdo_ss26,beige,grey,solid,0.97,solid,tops|knitwear
+008.jpg,SOLAR LONG SLEEVE SHIRT,shirt,IVORY,escvdo,SS26,escvdo_ss26,grey,grey,polka dots,0.34,solid / other,tops|knitwear
+009.png,PALLAY DRESS,dress,IVORY,escvdo,SS26,escvdo_ss26,grey,grey,striped,0.41,solid / other,dresses|knitwear
+010.jpg,CEREMONIA Maxi Dress,dress,Ivory,escvdo,SS26,escvdo_ss26,light pink,light blue,solid,0.75,solid,dresses|knitwear
+006.jpg,,,,chloe,ss27,chloe,white,grey,striped,0.49,solid / other,tops
+007.jpg,,,,chloe,ss27,chloe,white,white,solid,0.78,solid,tops
+008.jpg,,,,chloe,ss27,chloe,grey,grey,striped,0.43,solid / other,tops
+009.jpg,,,,chloe,ss27,chloe,black,brown,floral,0.3,solid / other,tops
+010.jpg,,,,chloe,ss27,chloe,white,brown,striped,0.41,solid / other,bottoms
+011.jpg,,,,chloe,ss27,chloe,black,beige,animal print,0.54,animal print,bottoms
+012.jpg,,,,chloe,ss27,chloe,white,light pink,solid,0.71,solid,tops
+013.jpg,,,,chloe,ss27,chloe,white,light pink,solid,0.42,solid / other,tops
+014.jpg,,,,chloe,ss27,chloe,light pink,light pink,floral,0.63,floral,dresses
+015.jpg,,,,chloe,ss27,chloe,black,black,floral,0.32,solid / other,dresses
+016.jpg,,,,chloe,ss27,chloe,white,brown,solid,0.67,solid,tops
+017.jpg,,,,chloe,ss27,chloe,white,light pink,floral,0.77,floral,dresses
+018.jpg,,,,chloe,ss27,chloe,black,black,polka dots,0.52,polka dots,outerwear
+019.jpg,,,,chloe,ss27,chloe,white,beige,floral,0.71,floral,dresses
+020.jpg,,,,chloe,ss27,chloe,black,black,floral,0.53,floral,dresses
+021.jpg,,,,chloe,ss27,chloe,white,black,floral,0.57,floral,dresses
+022.jpg,,,,chloe,ss27,chloe,black,black,animal print,0.46,solid / other,dresses
+023.jpg,,,,chloe,ss27,chloe,black,grey,polka dots,0.37,solid / other,dresses
+024.jpg,,,,chloe,ss27,chloe,white,white,solid,0.64,solid,outerwear
+025.jpg,,,,chloe,ss27,chloe,grey,beige,solid,0.66,solid,outerwear
+026.jpg,,,,chloe,ss27,chloe,white,light pink,solid,0.89,solid,outerwear
+027.jpg,,,,chloe,ss27,chloe,black,black,striped,0.2,solid / other,outerwear
+028.jpg,,,,chloe,ss27,chloe,light pink,beige,solid,0.46,solid / other,outerwear
+029.jpg,,,,chloe,ss27,chloe,black,black,solid,0.45,solid / other,outerwear
+030.jpg,,,,chloe,ss27,chloe,brown,black,animal print,0.39,solid / other,outerwear
+031.jpg,,,,chloe,ss27,chloe,beige,grey,solid,0.87,solid,outerwear
+032.jpg,,,,chloe,ss27,chloe,light pink,light pink,solid,0.79,solid,outerwear
+033.jpg,,,,chloe,ss27,chloe,light pink,light pink,solid,0.51,solid,outerwear
+034.jpg,,,,chloe,ss27,chloe,light pink,light pink,polka dots,0.37,solid / other,outerwear
+035.jpg,,,,chloe,ss27,chloe,light pink,grey,solid,0.46,solid / other,outerwear
+036.jpg,,,,chloe,ss27,chloe,black,black,animal print,0.31,solid / other,outerwear
+037.jpg,,,,chloe,ss27,chloe,red,red,solid,0.72,solid,outerwear
+038.jpg,,,,chloe,ss27,chloe,yellow,yellow,solid,0.61,solid,outerwear
+039.jpg,,,,chloe,ss27,chloe,light pink,light pink,floral,0.48,solid / other,bottoms
+040.jpg,,,,chloe,ss27,chloe,cream,cream,floral,0.56,floral,bottoms
+041.jpg,,,,chloe,ss27,chloe,light pink,light pink,floral,0.39,solid / other,bottoms
+042.jpg,,,,chloe,ss27,chloe,cream,light pink,solid,0.51,solid,outerwear
+043.jpg,,,,chloe,ss27,chloe,light pink,light pink,polka dots,0.4,solid / other,dresses
+044.jpg,,,,chloe,ss27,chloe,red,brown,floral,0.56,floral,tops
+045.jpg,,,,chloe,ss27,chloe,beige,lime,solid,0.71,solid,tops
+046.jpg,,,,chloe,ss27,chloe,orange,orange,solid,0.64,solid,dresses
+047.jpg,,,,chloe,ss27,chloe,yellow,orange,floral,0.83,floral,dresses
+048.jpg,,,,chloe,ss27,chloe,grey,beige,floral,0.6,floral,dresses
+049.jpg,,,,chloe,ss27,chloe,black,black,solid,0.47,solid / other,dresses
+050.jpg,,,,chloe,ss27,chloe,white,white,solid,0.68,solid,outerwear
+052.jpg,,,,chloe,ss27,chloe,black,black,polka dots,0.32,solid / other,outerwear
+053.jpg,,,,chloe,ss27,chloe,black,black,animal print,0.49,solid / other,tops
+054.jpg,,,,chloe,ss27,chloe,white,white,solid,0.79,solid,outerwear
+055.jpg,,,,chloe,ss27,chloe,light pink,light pink,solid,0.89,solid,tops
+056.jpg,,,,chloe,ss27,chloe,white,white,solid,0.43,solid / other,dresses
+057.jpg,,,,chloe,ss27,chloe,light pink,lime,solid,0.47,solid / other,dresses
+058.jpg,,,,chloe,ss27,chloe,white,light pink,floral,0.45,solid / other,dresses
+059.jpg,,,,chloe,ss27,chloe,navy,navy,solid,0.84,solid,tops

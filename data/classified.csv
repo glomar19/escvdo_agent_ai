@@ -1,0 +1,113 @@
+file,name,category,color,brand,collection,folder,garment,confidence
+001.jpg,CONA MAXI DRESS,dress,BURGUNDY - FUCHSIA,escvdo,FW25,escvdo_fw25,dresses,0.99
+002.jpg,TAYTA SLEEVELESS TOP,top,BURGUNDY - IVORY,escvdo,FW25,escvdo_fw25,dresses,0.6
+003.jpg,TAYTA MAXI SKIRT,skirt,BURGUNDY - IVORY,escvdo,FW25,escvdo_fw25,dresses,0.6
+004.jpg,SALKANTAY LIGHT SWEATER,sweater,GREEN - SKY BLUE,escvdo,FW25,escvdo_fw25,knitwear,0.73
+005.jpg,SALKANTAY MINI SKIRT,skirt,GREEN - SKY BLUE,escvdo,FW25,escvdo_fw25,bottoms,0.76
+006.png,UKUKU BLAZER,blazer,BLACK - IVORY,escvdo,FW25,escvdo_fw25,knitwear,0.53
+007.png,UKUKU ANKLE SKIRT,skirt,BLACK - IVORY,escvdo,FW25,escvdo_fw25,dresses,0.98
+008.jpg,AUZANGATE COAT,coat,BLACK - BROWN,escvdo,FW25,escvdo_fw25,dresses,0.93
+009.jpg,SAFI LONG SLEEVE TOP,top,ELECTRIC BLUE - BURGUNDY - IVORY,escvdo,FW25,escvdo_fw25,dresses,0.82
+010.jpg,SAFI MIDI SKIRT,skirt,ELECTRIC BLUE - BURGUNDY - IVORY,escvdo,FW25,escvdo_fw25,dresses,0.82
+011.jpg,PROFUNDO MIDI SKIRT,skirt,BLUES - BLACK |  PRE ORDER,escvdo,FW25,escvdo_fw25,dresses,0.52
+012.jpg,PABLITO TOP,top,BLACK,escvdo,FW25,escvdo_fw25,bottoms,0.53
+001.jpg,ALPAMAYO SLEEVELESS MAXI DRESS,dress,TANGERINE - ORANGE,escvdo,PF25,escvdo_pf25,dresses,1.0
+002.jpg,ESPINA SLEEVELESS TOP,top,ORANGE - FUCHSIA,escvdo,PF25,escvdo_pf25,dresses,0.95
+003.jpg,ESPINA MINI SKIRT,skirt,ORANGE - FUCHSIA,escvdo,PF25,escvdo_pf25,dresses,0.95
+004.jpg,REFLEJO CROCHET HALTER TOP,top,TANGERINE,escvdo,PF25,escvdo_pf25,dresses,0.99
+005.jpg,REFLEJO CROCHET MAXI SKIRT,skirt,TANGERINE,escvdo,PF25,escvdo_pf25,dresses,0.99
+006.jpg,CUMBRE MAXI DRESS,dress,TANGERINE,escvdo,PF25,escvdo_pf25,dresses,0.98
+007.jpg,WAYRA CROPPED SLEEVELESS TOP,top,TANGERINE - ORANGE,escvdo,PF25,escvdo_pf25,dresses,0.98
+008.jpg,WAYRA MINI SKIRT,skirt,ORANGE - TANGERINE,escvdo,PF25,escvdo_pf25,dresses,0.98
+009.jpg,MANGLAR SLEEVELESS TOP,top,IVORY - FUCHSIA,escvdo,PF25,escvdo_pf25,dresses,0.97
+010.jpg,MANGLAR MAXI SKIRT,skirt,IVORY - FUCHSIA,escvdo,PF25,escvdo_pf25,dresses,0.97
+011.jpg,MAREA CROCHET MAXI DRESS,dress,TANGERINE - YELLOW,escvdo,PF25,escvdo_pf25,dresses,0.99
+001.jpg,SIULA Long Sleeve Maxi Dress,dress,Red Wine,escvdo,PF26,escvdo_pf26,dresses,0.88
+002.jpg,TERRENAL Mini Skirt,skirt,Cobalt Blue,escvdo,PF26,escvdo_pf26,knitwear,0.48
+003.jpg,MAREA Maxi Dress,dress,Orange / Multi,escvdo,PF26,escvdo_pf26,dresses,0.96
+004.jpg,URSULA Top,top,Ivory / Multi,escvdo,PF26,escvdo_pf26,dresses,0.97
+005.jpg,ALMA Sleeveless Mini Dress,dress,Ivory / Multi,escvdo,PF26,escvdo_pf26,dresses,0.86
+006.jpg,SIULA Top,top,Ivory |  PRE ORDER,escvdo,PF26,escvdo_pf26,tops,0.87
+007.jpg,SIULA Halter Maxi Dress,dress,Ivory,escvdo,PF26,escvdo_pf26,dresses,0.99
+008.jpg,CIELO Pants,pants,Ivory,escvdo,PF26,escvdo_pf26,knitwear,0.99
+009.jpg,MURAL Top,top,Ivory,escvdo,PF26,escvdo_pf26,knitwear,0.56
+010.jpg,MISTI MIDI DRESS,dress,Matcha Green / Cobalt,escvdo,PF26,escvdo_pf26,dresses,0.97
+011.jpg,MISTI Mini Dress,dress,Matcha/ Brown,escvdo,PF26,escvdo_pf26,dresses,0.92
+001.png,MISHI KNITTED MINI DRESS,dress,GOLDEN,escvdo,PS26,escvdo_ps26,knitwear,0.77
+002.png,SUSPIRO SKIRT,skirt,GOLDEN BLACK,escvdo,PS26,escvdo_ps26,dresses,0.98
+003.png,ATUQ KNITTED VEST DRESS,dress,Ivory,escvdo,PS26,escvdo_ps26,dresses,0.85
+004.png,ATUQ KNITTED PANTS,pants,IVORY,escvdo,PS26,escvdo_ps26,dresses,0.85
+005.jpg,SOLAR LONG SLEEVE SHIRT,shirt,IVORY,escvdo,PS26,escvdo_ps26,knitwear,0.91
+006.png,MISHI KNITTED MINI DRESS,dress,IVORY,escvdo,PS26,escvdo_ps26,knitwear,1.0
+007.png,AMADA SKIRT,skirt,IVORY,escvdo,PS26,escvdo_ps26,knitwear,0.35
+008.png,AGRESTE SLEEVELESS MAXI DRESS,dress,IVORY,escvdo,PS26,escvdo_ps26,bottoms,0.57
+001.png,SOLAR LONG SLEEVE SHIRT,shirt,RED,escvdo,SS26,escvdo_ss26,bottoms,0.88
+002.png,CUENCA Midi Dress,dress,Scarlet Red,escvdo,SS26,escvdo_ss26,dresses,0.97
+003.webp,NEVADO Mini Dress,dress,Sunset,escvdo,SS26,escvdo_ss26,dresses,0.97
+004.jpg,LAURI Maxi Skirt,skirt,Tobacco,escvdo,SS26,escvdo_ss26,bottoms,0.98
+005.png,CANTOR Macramé Top,top,Tobacco,escvdo,SS26,escvdo_ss26,tops,0.78
+006.png,MAREA Maxi Dress,dress,Ivory - Tobacco,escvdo,SS26,escvdo_ss26,dresses,0.93
+007.jpg,LAURI Polo Shirt,shirt,Ivory,escvdo,SS26,escvdo_ss26,tops,0.48
+008.jpg,SOLAR LONG SLEEVE SHIRT,shirt,IVORY,escvdo,SS26,escvdo_ss26,knitwear,0.91
+009.png,PALLAY DRESS,dress,IVORY,escvdo,SS26,escvdo_ss26,dresses,0.76
+010.jpg,CEREMONIA Maxi Dress,dress,Ivory,escvdo,SS26,escvdo_ss26,dresses,0.83
+001.jpg,,,,chloe,ss27,chloe,bottoms,0.39
+002.jpg,,,,chloe,ss27,chloe,tops,0.45
+003.jpg,,,,chloe,ss27,chloe,tops,0.32
+004.jpg,,,,chloe,ss27,chloe,tops,0.5
+005.jpg,,,,chloe,ss27,chloe,knitwear,0.76
+006.jpg,,,,chloe,ss27,chloe,dresses,0.46
+007.jpg,,,,chloe,ss27,chloe,tops,0.56
+008.jpg,,,,chloe,ss27,chloe,knitwear,0.72
+009.jpg,,,,chloe,ss27,chloe,dresses,0.36
+010.jpg,,,,chloe,ss27,chloe,dresses,0.36
+011.jpg,,,,chloe,ss27,chloe,dresses,0.56
+012.jpg,,,,chloe,ss27,chloe,bottoms,0.66
+013.jpg,,,,chloe,ss27,chloe,tops,0.71
+014.jpg,,,,chloe,ss27,chloe,dresses,0.93
+015.jpg,,,,chloe,ss27,chloe,dresses,0.83
+016.jpg,,,,chloe,ss27,chloe,outerwear,0.52
+017.jpg,,,,chloe,ss27,chloe,dresses,0.86
+018.jpg,,,,chloe,ss27,chloe,outerwear,0.68
+019.jpg,,,,chloe,ss27,chloe,dresses,0.75
+020.jpg,,,,chloe,ss27,chloe,dresses,0.99
+021.jpg,,,,chloe,ss27,chloe,dresses,0.79
+022.jpg,,,,chloe,ss27,chloe,outerwear,0.71
+023.jpg,,,,chloe,ss27,chloe,dresses,0.95
+024.jpg,,,,chloe,ss27,chloe,outerwear,0.54
+025.jpg,,,,chloe,ss27,chloe,outerwear,0.85
+026.jpg,,,,chloe,ss27,chloe,outerwear,0.73
+027.jpg,,,,chloe,ss27,chloe,dresses,0.45
+028.jpg,,,,chloe,ss27,chloe,dresses,0.41
+029.jpg,,,,chloe,ss27,chloe,outerwear,0.92
+030.jpg,,,,chloe,ss27,chloe,dresses,0.62
+031.jpg,,,,chloe,ss27,chloe,bottoms,0.55
+032.jpg,,,,chloe,ss27,chloe,outerwear,0.91
+033.jpg,,,,chloe,ss27,chloe,outerwear,0.83
+034.jpg,,,,chloe,ss27,chloe,outerwear,0.73
+035.jpg,,,,chloe,ss27,chloe,dresses,0.83
+036.jpg,,,,chloe,ss27,chloe,outerwear,0.52
+037.jpg,,,,chloe,ss27,chloe,dresses,0.5
+038.jpg,,,,chloe,ss27,chloe,outerwear,0.54
+039.jpg,,,,chloe,ss27,chloe,dresses,0.76
+040.jpg,,,,chloe,ss27,chloe,dresses,0.98
+041.jpg,,,,chloe,ss27,chloe,knitwear,0.6
+042.jpg,,,,chloe,ss27,chloe,outerwear,0.9
+043.jpg,,,,chloe,ss27,chloe,dresses,0.94
+044.jpg,,,,chloe,ss27,chloe,dresses,0.74
+045.jpg,,,,chloe,ss27,chloe,dresses,0.57
+046.jpg,,,,chloe,ss27,chloe,dresses,0.84
+047.jpg,,,,chloe,ss27,chloe,dresses,0.99
+048.jpg,,,,chloe,ss27,chloe,dresses,0.88
+049.jpg,,,,chloe,ss27,chloe,bottoms,0.81
+050.jpg,,,,chloe,ss27,chloe,outerwear,0.74
+051.jpg,,,,chloe,ss27,chloe,dresses,0.64
+052.jpg,,,,chloe,ss27,chloe,outerwear,0.92
+053.jpg,,,,chloe,ss27,chloe,bottoms,0.85
+054.jpg,,,,chloe,ss27,chloe,outerwear,0.77
+055.jpg,,,,chloe,ss27,chloe,bottoms,0.43
+056.jpg,,,,chloe,ss27,chloe,dresses,0.54
+057.jpg,,,,chloe,ss27,chloe,dresses,0.98
+058.jpg,,,,chloe,ss27,chloe,dresses,0.98
+059.jpg,,,,chloe,ss27,chloe,tops,0.86
+060.jpg,,,,chloe,ss27,chloe,dresses,0.56
