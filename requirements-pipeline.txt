@@ -1,0 +1,7 @@
+pillow
+torch
+transformers
+scikit-learn
+matplotlib
+requests
+beautifulsoup4
