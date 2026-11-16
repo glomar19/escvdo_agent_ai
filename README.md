@@ -2,7 +2,7 @@
 
 Which colours, garments and patterns does a competitor use that ESCVDO doesn’t? This agent reads competitor photos and answers in plain language, with a suggested action for the buyer
 
-![App screenshot](docs/app.png)
+![App screenshot](doc/app.png)
 
 ## Why
 
