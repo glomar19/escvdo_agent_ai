@@ -4,6 +4,8 @@ Which colours, garments and patterns does a competitor use that ESCVDO doesn’t
 
 ![App screenshot](doc/app.png)
 
+**Live demo:** https://escvdoagentai.streamlit.app/
+
 ## Why
 
 Buyers compare collections manually. This project makes that comparison measurable: the same attributes, extracted the same way, for every brand.
