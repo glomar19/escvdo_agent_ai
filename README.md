@@ -1,23 +1,23 @@
 # ESCVDO Competitor Trend Agent
 
-An agent that turns competitor fashion photos into plain-language insights for a non-technical buyer: which garments, colours and patterns a competitor uses more or less than ESCVDO (Peruvian knitwear brand), and what to do about it.
+Which colours, garments and patterns does a competitor use that ESCVDO doesn’t? This agent reads competitor photos and answers in plain language, with a suggested action for the buyer
 
 ![App screenshot](docs/app.png)
 
 ## Why
 
-Buyers compare collections by eye. This project makes that comparison measurable: the same attributes, extracted the same way, for every brand.
+Buyers compare collections manually. This project makes that comparison measurable: the same attributes, extracted the same way, for every brand.
 
 ## What it does
 
 ```
-photos  ->  garment  ->  colour  ->  pattern  ->  gaps vs ESCVDO  ->  5 insights  ->  Streamlit app
+photos  ->  type garment  ->  colour  ->  pattern  ->  gaps vs ESCVDO  ->  5 insights  ->  Streamlit app
 ```
 
 | Step | How | Code |
 |---|---|---|
-| Collect photos | Saved collection pages (HTML) parsed with BeautifulSoup; one folder per brand and collection | `src/parse_saved_page.py`, `src/download_images.py` |
-| Garment type | CLIP zero-shot, then logistic regression on CLIP embeddings | `src/classify.py` |
+| Collect photos | Chloé: images downloaded directly from the live page. ESCVDO: pages saved as HTML, then parsed and downloaded from the saved file. One folder per brand and collection | `src/parse_saved_page.py`, `src/download_images.py` |
+| Garment type | CLIP and FashionCLIP zero-shot (CLIP performed best), then a logistic regression on CLIP embeddings | `src/classify.py` |
 | Dominant colour | Background removal + k-means, upper and lower body separately | `src/colors.py` |
 | Pattern | CLIP zero-shot, low-confidence predictions reported as "solid / other" | `src/classify.py` |
 | Insights | Code computes the biggest gaps between brands, templates write the text | `src/report.py` |
@@ -59,11 +59,11 @@ Because garment accuracy is still weak, the comparison between ESCVDO and Chloé
 
 ## What worked and what didn't
 
-- **Single-label evaluation was misleading.** Labels taken from product names ("Lucero Top") don't describe outfits with several garments. Hand-labelling multi-label fixed the evaluation (42% strict accuracy became 56% hit rate under a fair criterion).
-- **Zero-shot CLIP over-predicts "dress"** on full-body photos (71% predicted vs 37% real).
+- **Single-label evaluation was misleading.** Labels taken from product names ("Lucero Top") don't describe outfits with several garments: many looks were a knitted top plus pants or a skirt. I hand-labelled every photo with multiple garments and used a fairer criterion, so the score went from 42% (strict) to 56% (hit rate). The model did not improve, the measurement did.
+- **Zero-shot CLIP over-predicts "dress"** on full-body photos (71% predicted vs 37% in my labels), probably because many photos show matching sets that look like one-piece dresses.
 - **Colour:** the first version picked the studio or runway background (78% "beige" for Chloé). Removing the background row by row fixed most of it. Dark skin tones and very pale pastels still fail.
-- **A 1.5B local LLM (Qwen2.5-1.5B-Instruct) hallucinated numbers** and drifted off-topic when asked to write the insights. I switched to a split: code computes, templates write. An LLM can be added back later as an optional polish step.
-- **Scraping was unreliable:** two sites returned HTTP 429, so I saved the pages from the browser and parsed them locally.
+- **A small LLM (Qwen2.5-1.5B-Instruct) hallucinated numbers.** I first asked it to calculate and write the insights, but it invented figures. I switched to code that computes the gaps and templates that write the sentences. An LLM could be added back later only to polish the wording.
+- **Scraping was unreliable:** ESCVDO and Ayni returned HTTP 429 (too many requests) and blocked me, so I saved the pages from the browser and parsed them locally.
 
 ## Run it
 
@@ -77,16 +77,18 @@ The app reads `data/final_table.csv`. To re-run the full pipeline (CLIP, colours
 
 ## Limitations
 
-- Small dataset (about 105 photos, two brands).
-- ESCVDO photos are catalogue shots and Chloé photos are runway looks, so the comparison is approximate.
-- Colour and pattern are automatic and imperfect. ESCVDO's "animal print" and "polka dots" (about 14% of its photos) are probably open crochet texture mistaken for a print, some with high confidence (0.7 to 0.9), so the confidence threshold alone does not remove them.
-- Garment classifier is confounded with brand (see above).
+- **Small dataset:** about 105 photos from two brands.
+- **Different photo types:** ESCVDO photos are catalogue shots and Chloé photos are runway looks, so the comparison is approximate. Most photos show a full outfit with several garments (a top and a skirt, for example), which makes single-garment classification harder.
+- **Colour and pattern are automatic and imperfect.** About 14% of ESCVDO photos are tagged "animal print" or "polka dots", but many are probably open crochet texture mistaken for a print. Some have high confidence (0.7 to 0.9), so the confidence threshold alone does not remove them.
+- **The garment classifier is confounded with brand:** all knitwear photos come from ESCVDO and most outerwear from Chloé, so the model may partly learn the brand instead of the garment (see the Results table).
 
 ## Next steps
 
-- Add more competitors (Ayni, Ulla Johnson) to break the brand confound.
-- Let the user upload new photos and classify them live.
-- Tests (`pytest`), Dockerfile and a FastAPI endpoint.
+- **Add more competitors** (Ayni, Ulla Johnson) to break the brand confound and test on a brand the model has never seen.
+- **Crop each photo** into upper and lower body and classify each part separately, to handle full outfits with several garments.
+- **Improve colour detection** for pale shades and dark skin tones, and separate open crochet textures from real prints.
+- **Let the user upload new photos** and classify them live in the app.
+- **Productionize:** tests (`pytest`), a Dockerfile and a FastAPI endpoint.
 
 ## Author
 
